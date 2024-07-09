@@ -1,0 +1,37 @@
+.section2{
+    background-color: rgb(42, 42, 199);
+    height: 450px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.imgsection2{
+    margin-top: 0px;
+    margin-left: 50px;
+    width: 450px;
+    border-radius: 50px;
+    box-shadow: 0 0 40px;
+}
+
+.li{
+    padding-top: 15px;
+    margin-left: -70px;
+    margin-top: -20px;
+}
+.secudevops{
+    margin-left: 100px;
+    background-color: black;
+    
+}
+.detailbtn{
+    background-color:white;
+    color: blue;
+    border-radius: 25%;
+    width: 150px;
+    margin-top: -50px;
+    
+}
+.detailbtn:hover{
+    color: blue;
+    transition: 1.1s;
+    background-color:red;
+}

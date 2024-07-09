@@ -1,0 +1,41 @@
+.header{
+    position: fixed;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    padding-top:-6px;
+}
+ul{
+    display: flex;
+    padding-top: -15px;
+}
+
+li{
+    list-style: none;  
+    padding-left: 80px; 
+}
+
+a{
+   padding: 6px;
+   margin-top: 2px;
+  }
+
+  a:hover{
+    background-color: black;
+    border-bottom: 1px;
+    transition: 1.2s;
+  }
+
+  span{
+    color: orange;
+  }
+  
+  
+
+
+
+
+
+/* Header.css */
+
+/* H

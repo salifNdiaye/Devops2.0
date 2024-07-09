@@ -1,0 +1,11 @@
+.imgabout{
+    width: 400px;
+    height: 250px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.imgabout:hover{
+    transition: 1.3;
+    transform: scale(1.2);
+}
+
+    
